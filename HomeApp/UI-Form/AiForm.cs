@@ -6,7 +6,7 @@ namespace MyApp.UI_Form
 {
     public partial class AiForm : Form
     {
-        private AiHelper aiHelp; //保存TomatoHelper的实例
+        private AiHelper aiHelp; 
         public AiForm()
         {
             InitializeComponent();
